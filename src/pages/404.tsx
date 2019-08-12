@@ -3,24 +3,24 @@ import * as React from 'react';
 import styled from '@emotion/styled';
 import { css } from '@emotion/core';
 
-import SiteNavLogo from '../components/header/SiteNavLogo';
-import PostCard from '../components/PostCard';
+// import SiteNavLogo from '../components/header/SiteNavLogo';
+// import PostCard from '../components/PostCard';
 import Wrapper from '../components/Wrapper';
 import IndexLayout from '../layouts';
 import { colors } from '../styles/colors';
-import { inner, outer, PostFeed, SiteHeader } from '../styles/shared';
+import { inner, outer, SiteHeader } from '../styles/shared';
 import { PageContext } from '../templates/post';
 
-const SiteNavCenter = styled.nav`
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+// const SiteNavCenter = styled.nav`
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   text-align: center;
 
-  .site-nav-logo {
-    margin-right: 0;
-  }
-`;
+//   .site-nav-logo {
+//     margin-right: 0;
+//   }
+// `;
 
 const ErrorTemplate = css`
   padding: 7vw 4vw;
@@ -66,9 +66,9 @@ const NotFoundPage: React.FC<NotFoundTemplateProps> = props => {
       <Wrapper>
         <header css={[SiteHeader, outer]}>
           <div className="inner">
-            <SiteNavCenter>
+            {/* <SiteNavCenter>
               <SiteNavLogo />
-            </SiteNavCenter>
+            </SiteNavCenter> */}
           </div>
         </header>
         <main id="site-main" css={[ErrorTemplate, outer]}>
@@ -82,7 +82,7 @@ const NotFoundPage: React.FC<NotFoundTemplateProps> = props => {
             </section>
           </div>
         </main>
-        <aside css={outer}>
+        {/* <aside css={outer}>
           <div css={inner}>
             <div css={PostFeed}>
               {edges.map(({ node }) => (
@@ -90,7 +90,7 @@ const NotFoundPage: React.FC<NotFoundTemplateProps> = props => {
               ))}
             </div>
           </div>
-        </aside>
+        </aside> */}
       </Wrapper>
     </IndexLayout>
   );
