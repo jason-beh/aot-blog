@@ -11,9 +11,9 @@ draft: false
 
 To give a little bit of context, Agents of Tech by Taylor's University has existed since 2015. Our club has achieved magnificent milestones in the past. From annual large scale competitions to mini sharing sessions, we even organized hackathons that had 100+ participants!
 
-## The Downfall during 2017
+## The Truth
 
-From 2017 onwards, Agents of Tech has died down due to the departure of our senior members. They managed to secure great careers after the completion of their university degrees, however, the momentum for the club was, unfortunately, slowing down. Ever since then, things in Agents of Tech weren't the same before.
+Agents of Tech hasn't been in most glorious state after ImagineHack which was held in 2016. Although there were projects and workshops such as teaching refugees to code and mini workshops that were held after 6pm such as 'How To Design A Mobile App', but our momentum wasn't the same anymore. But fear not, things will be different in this term.
 
 ## Good News: Agents of Tech Is Back!
 
