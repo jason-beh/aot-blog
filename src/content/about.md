@@ -63,7 +63,7 @@ For those who are interested, please register here.
 
 Our club often has ongoing tech projects that might be due to self-interest or a problem that someone else is facing. Most of the time, you will be working with elites of the club that has working experience.
 
-For instance, have you ever wondered how to create an Instagram bot? Or maybe create a mobile app to track the Bus GPS? (This might be an upcoming project)
+For instance, have you ever wondered how to create an twitter bot? Or maybe create a mobile app to track the Bus GPS? (This might be an upcoming project)
 
 Sometimes, we might also collaborate with companies outside, so that you can have an opportunity to see what coders or designers do in their daily lives. (We might even brainstorm with them in their app design etc)
 

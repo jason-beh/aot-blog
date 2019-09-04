@@ -56,8 +56,8 @@ const config: WebsiteConfig = {
   logo: 'img/ghost-logo.png',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
-  facebook: 'https://www.facebook.com/ghost',
-  twitter: 'https://twitter.com/tryghost',
+  facebook: 'https://www.facebook.com/AgentsOfTech/',
+  twitter: 'https://www.instagram.com/agentsoftech/',
   showSubscribe: true,
   mailchimpAction:
     'https://gmail.us3.list-manage.com/subscribe?u=9c807cd3466856a9364bf8345&id=cceef77ac2',

@@ -82,13 +82,9 @@ const Footer: React.FC = () => {
           )}
           {config.twitter && (
             <a href={config.twitter} target="_blank" rel="noopener noreferrer">
-              Twitter
+              Instagram
             </a>
           )}
-
-          <a href="https://ghost.org" target="_blank" rel="noopener noreferrer">
-            Ghost
-          </a>
 
           <a href="/rss.xml">RSS</a>
         </SiteFooterNav>

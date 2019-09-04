@@ -158,7 +158,7 @@ class SiteNav extends React.Component<SiteNavProps> {
               <a
                 css={SocialLink}
                 href={config.twitter}
-                title="Twitter"
+                title="twitter"
                 target="_blank"
                 rel="noopener noreferrer"
               >
