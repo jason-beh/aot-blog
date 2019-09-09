@@ -55,7 +55,7 @@ const config: WebsiteConfig = {
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/hero.png',
   lang: 'en',
-  siteUrl: 'https://agentsoftech.com/',
+  siteUrl: 'https://agentsoftechclub.com/',
   facebook: 'https://www.facebook.com/AgentsOfTech/',
   twitter: 'https://www.instagram.com/agentsoftech/',
   showSubscribe: true,
