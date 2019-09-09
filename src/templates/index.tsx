@@ -142,7 +142,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               <SiteTitle>
                 {props.data.logo ? (
                   <img
-                    // style={{ maxHeight: '45px' }}
+                    style={{ maxHeight: '400px', width: '500px' }}
                     src={props.data.logo.childImageSharp.fixed.src}
                     alt={config.title}
                   />

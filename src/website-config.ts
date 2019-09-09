@@ -52,7 +52,7 @@ const config: WebsiteConfig = {
   title: 'Agents of Tech',
   description:
     'Agents of Tech exists to satisfy anyone that has a curiosity for tech. From hardcore coding to stunning designs, we provide workshops to get you equipped with the 21st Century tech skillset.',
-  coverImage: 'img/blog-cover.jpg',
+  coverImage: 'img/blog-cover-share.jpg',
   logo: 'img/hero.png',
   lang: 'en',
   siteUrl: 'https://agentsoftechclub.com/',
