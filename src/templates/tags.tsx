@@ -89,10 +89,7 @@ const Tags: React.FC<TagTemplateProps> = props => {
           className={`${tagData && tagData.node.image ? '' : 'no-cover'}`}
           css={[outer, SiteHeader]}
           style={{
-            backgroundImage:
-              tagData && tagData.node.image
-                ? `url('${tagData.node.image.childImageSharp.fluid.src}')`
-                : '',
+            backgroundImage: '',
           }}
         >
           <div css={inner}>
