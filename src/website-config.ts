@@ -53,9 +53,9 @@ const config: WebsiteConfig = {
   description:
     'Agents of Tech exists to satisfy anyone that has a curiosity for tech. From hardcore coding to stunning designs, we provide workshops to get you equipped with the 21st Century tech skillset.',
   coverImage: 'img/blog-cover.jpg',
-  logo: 'img/ghost-logo.png',
+  logo: 'img/hero.png',
   lang: 'en',
-  siteUrl: 'https://gatsby-casper.netlify.com',
+  siteUrl: 'https://agentsoftech.com/',
   facebook: 'https://www.facebook.com/AgentsOfTech/',
   twitter: 'https://www.instagram.com/agentsoftech/',
   showSubscribe: true,
@@ -63,7 +63,7 @@ const config: WebsiteConfig = {
     'https://gmail.us3.list-manage.com/subscribe?u=9c807cd3466856a9364bf8345&id=cceef77ac2',
   mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
   mailchimpEmailFieldName: 'MERGE0',
-  googleSiteVerification: 'GoogleCode',
+  googleSiteVerification: 'UA-108253018-5',
   footer: 'Designed by Jason Beh',
 };
 
