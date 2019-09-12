@@ -27,7 +27,7 @@ Hmm, but what are the things that they do to learn?
 
 ## 1. Practice Coding 💻
 
-Practice makes perfect is what all our seniors and mentors say, but it really true. Coding is a skill that needs consistent hands-on exposure to it, otherwise, you will either fall behind or stay stagnant.
+Practice makes perfect is what all our seniors and mentors say, but it really is true. Coding is a skill that needs consistent hands-on exposure to it, otherwise, you will either fall behind or stay stagnant.
 
 ### Projects
 
@@ -58,7 +58,7 @@ This way, you can improve yourself while doing some mundane work, such as ironin
 
 ## 4. Social Events 👫
 
-Truth to be told, people like me and you probably don't fancy activities that need to socialise. But I assure you, that this is effective. I may not be the best person to encourage it, because the social part of me is still in a work-in-progress. However, if you really try and provide value for others, they will often provide value to you too.
+Truth to be told, people like me and you probably don't fancy activities that need to socialize. But I assure you, that this is effective. I may not be the best person to encourage it, because the social part of me is still a work-in-progress. However, if you really try and provide value for others, they will often provide value to you too.
 
 ### Attend Conferences
 
@@ -92,7 +92,7 @@ Unlike conferences where developers all over the world may attend, local meetups
 
 By speaking, you will get to go out of your comfort zone and share the knowledge that you know. Sharing is caring!
 
-For example, check out [KualaLumpur JS](https://www.facebook.com/groups/kualalumpurjs/) which host monthly Javascript sharing sessions!
+For example, check out [KualaLumpur JS](https://www.facebook.com/groups/kualalumpurjs/) which hosts monthly Javascript sharing sessions!
 
 ## 5. Reading 📕
 
