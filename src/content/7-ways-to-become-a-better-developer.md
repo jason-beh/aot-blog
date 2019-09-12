@@ -58,11 +58,13 @@ This way, you can improve yourself while doing some mundane work, such as ironin
 
 ## 4. Social Events 👫
 
-Truth to be told, people like me and you probably don't fancy activities that need to socialize. But I assure you, that this is effective. I may not be the best person to encourage it, because the social part of me is still in a work-in-progress. However, if you really try and provide value for others, they will often provide value to you too.
+Truth to be told, people like me and you probably don't fancy activities that need to socialise. But I assure you, that this is effective. I may not be the best person to encourage it, because the social part of me is still in a work-in-progress. However, if you really try and provide value for others, they will often provide value to you too.
 
 ### Attend Conferences
 
-Conferences can come in all kinds of prices. To start off, I would encourage you to attend smaller ones first and work up from there. Try to set a goal for each conference, such as introduce yourself to 5 people first, or get at least 3 speakers' contacts.
+Large tech conferences can be expensive. For example, the famous annual Google I/O event costs about \$1,150 for only its general admission ticket!
+
+To start off, I would encourage you to attend smaller ones first and work up from there. Try to set a goal for each conference, such as introduce yourself to 5 people first, or get at least 3 speakers' contacts.
 
 This kind of conferences is not only good for your social skills, but it enhances your technical skills as well. Large companies usually like to share the use cases and limitations of the technologies that they are speaking about, giving you multiple key insights that would otherwise require you to experiment for days.
 
@@ -130,7 +132,7 @@ I find this to be really difficult, but rewarding at the same time. This is beca
 
 Before you teach somebody to code, you must adopt the mindset of a student and recall back how you learned the concept in the past. By doing this, you will be able to lower yourself to their standard and lift them up from there.
 
-You might ask, 'but how do I find students that wanna learn to code'. Well, there are many ways to do it. You could either ask your friend that has always wanted to find a new hobby and don't mind trying to code or join non-profit organizations that offer education help to those who need it.
+You might ask, 'but how do I find students that wanna learn to code'. Well, there are many ways to do it. You could either ask your friend that has always wanted to find a new hobby and don't mind trying to code or join non-profit organisations that offer education help to those who need it.
 
 ---
 
