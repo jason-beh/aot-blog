@@ -9,13 +9,13 @@ tags:
 draft: false
 ---
 
-This article describes how developers must always be ready to learn more and 7 ways that you can do it effectively, which u can start implementing it today.
+This article describes how developers must always be ready to learn more and 7 ways that you can do it effectively, which u can start implementing today.
 
 ## To Be Stagnant Or Not To Be Stagnant? 🤔
 
-I have come to the realization that the best of the best developers learn every week. Despite tight and impossible-to-meet project deadlines, they still somehow managed to cram in a bit of self-taught educational content that makes them gain a competitive edge apart from other developers.
+I have come to realize that the best of the best developers learn every week. Despite tight and impossible-to-meet project deadlines, they still somehow manage to cram in a bit of self-taught educational content that makes them gain a competitive edge, setting them apart from other developers.
 
-The bottom line is that everyone has 24 hours, but it is their willingness to continuously engage themselves in the art of learning in the technology world. In the technology world, the norm is already known: skills that we learned a few years ago or even months ago may be obsolete and 'useless' in terms of industrial demand.
+The bottom line is that everyone has 24 hours, but it is their willingness to continuously engage themselves in the art of learning in the technology world that makes them more respected in their line of work. In the technology world, the norm is already known: skills that we learned a few years ago or even months ago may be obsolete and ‘useless’ in terms of industrial demand.
 
 Hmm, but what are the things that they do to learn?
 
@@ -27,12 +27,13 @@ Hmm, but what are the things that they do to learn?
 
 ## 1. Practice Coding 💻
 
-Practice makes perfect is what all our seniors and mentors say, but it really is true. Coding is a skill that needs consistent hands-on exposure to it, otherwise, you will either fall behind or stay stagnant.
+Practice makes perfect is what all our seniors and mentors say, but it is true. Coding is a skill that needs consistent hands-on exposure to it, otherwise, you will either fall behind or stay stagnant.
 
 ### Projects
 
-Personal projects, including Hello World (nope, just kidding), is a great way for you to think critically to develop something useful. For example, if you are just starting out in mobile app development, why not try to make a mock travel app?
-That way, you can create a project without real pressure, deadlines or restrictions. Ultimately, you get to code like you own it and add it to your portfolio!
+Personal projects, including Hello World (nope, just kidding), are a great way for you to think critically when developing something useful. For example, if you are just starting in mobile app development, why not try to make a mock travel app?
+
+That way you can create a project without real pressure, deadlines or restrictions. Ultimately, you get to code like you own it and add it to your portfolio!
 
 ### Open Source Contribution
 
@@ -42,13 +43,13 @@ These are the work of world-class software developers, which means that if you m
 
 ## 2. Blogging ✏️
 
-Now, you might be wondering, 'why should developers blog when we are paid to write code?'.
+Now, you might be wondering, ‘why should developers blog when we are paid to write code?’.
 
-Blogging is an essential aspect to developers because it shows industrial knowledge. Knowing how to write to your audience will also mean that you really understand the concepts and you have mastered the skill of copywriting.
+Blogging is an essential aspect of developers because it shows industrial knowledge. Knowing how to write to your audience will also mean that you understand the concepts and you have mastered the skill of copywriting.
 
-Just imagine if you have a minimum of 10,000 active readers to your blog, most of the time this means something! Your personal branding can also increase your rate per hour and probably help you earn some side income.
+Just imagine if you have a minimum of 10,000 active readers to your blog, most of the time this means something! Your branding can also increase your rate per hour and probably help you earn some side income.
 
-With blogging, you can also carve out your own mini corner on the Internet, which is a good way to reflect where you came from and share it to the rest of the world.
+With blogging, you can also carve out your mini corner on the Internet, which is a good way to reflect where you came from and share it with the rest of the world.
 
 ## 3. Listen to Podcasts 🎧
 
@@ -58,21 +59,21 @@ This way, you can improve yourself while doing some mundane work, such as ironin
 
 ## 4. Social Events 👫
 
-Truth to be told, people like me and you probably don't fancy activities that need to socialize. But I assure you, that this is effective. I may not be the best person to encourage it, because the social part of me is still a work-in-progress. However, if you really try and provide value for others, they will often provide value to you too.
+Truth to be told, people like me and you probably don’t fancy activities that need to socialize. But I assure you that this is effective. I may not be the best person to encourage it as the social part of me is still in a work-in-progress. However, if you try and provide value for others, they will often provide value to you too.
 
 ### Attend Conferences
 
-Large tech conferences can be expensive. For example, the famous annual Google I/O event costs about \$1,150 for only its general admission ticket!
+Large tech conferences can be expensive when it comes to registration. For example, the famous annual Google I/O event costs about \$1,150 for only its general admission ticket!
 
-To start off, I would encourage you to attend smaller ones first and work up from there. Try to set a goal for each conference, such as introduce yourself to 5 people first, or get at least 3 speakers' contacts.
+To start, I would encourage you to attend smaller ones first and work from there. Try to set a goal for each conference, such as introducing yourself to 5 people first, or get at least 3 speakers’ contacts.
 
-This kind of conferences is not only good for your social skills, but it enhances your technical skills as well. Large companies usually like to share the use cases and limitations of the technologies that they are speaking about, giving you multiple key insights that would otherwise require you to experiment for days.
+These kind of conferences are not only good for your social skills, but it enhances your technical skills as well. Large companies usually like to share the use cases and limitations of the technologies that they are speaking about, giving you multiple key insights that would otherwise require you to experiment for days.
 
 ### Hackathons
 
-Not a marathon, but a hackathon is a fast-paced competition that requires developers to collaborate with other players in a team to create a working prototype to solve a problem.
+Not a marathon, but a hackathon; itis a fast-paced competition that requires developers to collaborate with other players in a team to create a working prototype to solve a problem.
 
-I personally have participated in numerous hackathons and I must say that each one will give you a whole new perspective. Knowing where you stand in the industry is also very beneficial to your own self-awareness.
+I have participated in numerous hackathons and I must say that each one will give you a whole new perspective. Knowing where you stand in the industry is also very beneficial for your self-awareness.
 
 Besides that, you get to meet new people in the industry, have fun and be stressed out at the same time, and enjoy the community that you are in.
 
@@ -80,17 +81,19 @@ One upcoming hackathon in Oct 2019 is [Lawtech Hackathon](https://www.eventbrite
 
 ### LinkedIn
 
-LinkedIn is a powerful tool to find like-minded technical people that perhaps are industry players. With Linkedin, they have removed a barrier for you to get close with tech experts all across the world.
+LinkedIn is a powerful tool to find like-minded, technical people that perhaps are industry players. With LinkedIn, they have removed a barrier for you to get close with tech experts all across the world.
 
-All you need to do now is ask or provide value for them beforehand first.
+All you need to do now is ask or provide value for them beforehand.
 
 ### Speak or Attend A Local Meetup
 
-I haven't actually spoken at a local meetup, but it is in my bucket list as of now. A local meetup is a convenient way for you to network with other developers in the community.
+I haven’t spoken at a local meetup, but it is in my bucket list as of now. A local meetup is a convenient way for you to network with other developers in the community.
 
-Unlike conferences where developers all over the world may attend, local meetups often have developers from your regional outreach only. The cool thing is that everyone usually just wanna relax and have a nice chat about a topic that they are passionate about, which is technology!
+Unlike conferences where developers all over the world may attend, local meetups often have developers from your regional outreach only. The cool thing is that everyone usually just want to relax and have a nice chat about a topic that they are passionate about, which is technology!
 
-By speaking, you will get to go out of your comfort zone and share the knowledge that you know. Sharing is caring!
+By speaking, you will get to go out of your comfort zone and share the knowledge that you know.
+
+Sharing is caring!
 
 For example, check out [KualaLumpur JS](https://www.facebook.com/groups/kualalumpurjs/) which hosts monthly Javascript sharing sessions!
 
@@ -98,17 +101,19 @@ For example, check out [KualaLumpur JS](https://www.facebook.com/groups/kualalum
 
 ### Medium.com
 
-Medium is a platform for writers and everyone to express an opinion or share something that they wanna voice out in. This includes technology topics and even coding projects that are really cool.
+Medium is a platform for writers and everyone to express an opinion or share something that they wanna voice out. This includes technology-related topics and cool coding projects.
 
-I find Medium.com to be a byte-sized digestible content for me because most articles don't take too long and they are usually well structured for readers to read.
+I find Medium.com to be a byte-sized digestible content for me because most articles don’t take too long and they are usually well structured for readers to read.
 
-You can find really intriguing projects such as [Instagram Bot](https://www.freecodecamp.org/news/my-open-source-instagram-bot-got-me-2-500-real-followers-for-5-in-server-costs-e40491358340/)
+You can find intriguing projects such as [Instagram Bot](https://www.freecodecamp.org/news/my-open-source-instagram-bot-got-me-2-500-real-followers-for-5-in-server-costs-e40491358340/)
 
 ### Books
 
-There are many programming books out there for you to read, which covers a topic in a sequential and holistic manner. For example, if you are keen on learning Python, you could pick up a book like [Think Python: How to Think Like a Computer Scientist, 2nd edition](http://www.greenteapress.com/thinkpython/thinkpython.html).
+There are many programming books out there for you to read, which covers a topic sequentially and holistically. For example, if you are keen on learning Python, you could pick up a book like [Think Python: How to Think Like a Computer Scientist, 2nd edition](http://www.greenteapress.com/thinkpython/thinkpython.html).
 
-For the most part, this could be a traditional way of learning things, which might not be the way that most people are looking for. Nonetheless, I don't doubt the effectiveness of books, because the existence of books have always kept us updated since the beginning.
+For the most part, this could be a traditional way of learning things, which might not be the way that most people are looking for.
+
+Nonetheless, I don't doubt the effectiveness of books, because the existence of books have always kept us updated since the beginning.
 
 ## 6. Taking Courses (Online or Offline) 🎓
 
@@ -116,7 +121,7 @@ For the most part, this could be a traditional way of learning things, which mig
 
 In our modern age, we can learn online with almost no cost at all, even from top universities in the world like Stanford, MIT or Harvard. Apart from that, online courses usually have an increased playback speed function that lets you consume content even faster, due to its self-paced education feature.
 
-Sometimes, some courses may offer certificates as well, which could be useful if you showcase them to your employers.
+Sometimes, some courses may offer certificates as well, which could be useful to showcase them to your employers.
 
 There are endless online courses to dive in, but these are the resources/platforms I use more often: [PluralSight](https://www.pluralsight.com/), [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org/), [edX](https://www.edx.org/).
 
@@ -128,11 +133,11 @@ They are usually not too expensive, and you get to learn together with other stu
 
 ## 7. Teaching Others How To Code 👨‍🏫
 
-I find this to be really difficult, but rewarding at the same time. This is because you must be a teacher and a student at the same time to be an effective instructor.
+I find this to be difficult, but rewarding at the same time. This is because you must be a teacher and a student at the same time to be an effective instructor.
 
-Before you teach somebody to code, you must adopt the mindset of a student and recall back how you learned the concept in the past. By doing this, you will be able to lower yourself to their standard and lift them up from there.
+Before you teach somebody to code, you must adopt the mindset of a student and recall back how you learned the concept in the past. By doing this, you will be able to lower yourself to their standard and lift them from there.
 
-You might ask, 'but how do I find students that wanna learn to code'. Well, there are many ways to do it. You could either ask your friend that has always wanted to find a new hobby and don't mind trying to code or join non-profit organisations that offer education help to those who need it.
+You might ask, ‘but how do I find students that wanna learn to code?’. Well, there are many ways to do it. You could either ask your friend that has always wanted to find a new hobby and don’t mind trying to code or join non-profit organizations that offer educational help to those who need it.
 
 ---
 
@@ -142,8 +147,6 @@ You might ask, 'but how do I find students that wanna learn to code'. Well, ther
 
 ## Closing Thoughts 😄
 
-I believe that you have the capacity to make yourself a better developer, but it doesn't stop by reading until the very last word in this article.
+I believe that you can make yourself a better developer, but it doesn’t stop by reading until the very last word in this article. Make your life greater by carrying out of the 7 ways and step out of your comfort zone.
 
-Make your life greater by carrying out of the 7 ways and step out of your comfort zone.
-
-You will never ever know the opportunities that are out there for you.
+You will never know the opportunities that are out there for you.
