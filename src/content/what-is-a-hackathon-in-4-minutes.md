@@ -15,10 +15,6 @@ Yes, all that is described above is just some of the fun you will experience in 
 
 ---
 
-![marathon](img/what-is-a-hackathon-in-4-minutes/2.jpg)
-
-###### Marathon or Hackathon?
-
 ## A Marathon To Hack Things? 🤔
 
 The common misconception is to tap into our cognitive bias and assume that a hackathon is a marathon. One funny incident happened during one of my clinic appointments.
@@ -26,6 +22,12 @@ The common misconception is to tap into our cognitive bias and assume that a hac
 Having injured my legs, the doctor told me not to do any strenuous activity. I replied, telling him that I will be participating in a hackathon that weekend. He assumed I was going for a 10km marathon because Music Run, a literal marathon, was also happening in the same week.
 
 After explaining, he calmed down and concluded the session with assurance.
+
+---
+
+![marathon](img/what-is-a-hackathon-in-4-minutes/2.jpg)
+
+###### An overview of how a hackathon looks like
 
 ## So, What Is A Hackathon?
 
