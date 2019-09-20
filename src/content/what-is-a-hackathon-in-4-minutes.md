@@ -9,7 +9,7 @@ tags:
 draft: false
 ---
 
-40 hours of intense focus. Prolonged sleep deprivation. Nerve-wracking, stressed out moments. Unexpected friendship formations. Proud working prototype to bring home.
+24 hours of intense focus. Prolonged sleep deprivation. Nerve-wracking, stressed out moments. Unexpected friendship formations. Proud working prototype to bring home.
 
 Yes, all that is described above is just some of the fun you will experience in joining a hackathon, but there is so much more to it.
 
@@ -31,7 +31,7 @@ After explaining, he calmed down and concluded the session with assurance.
 
 ## So, What Is A Hackathon?
 
-> A hackathon is an event, typically lasting several days, in which a large number of people meet to engage in collaborative computer programming - [lexico.com](https://www.lexico.com/en/definition/hackathon).
+> A hackathon is an event, typically lasting several days, in which a large number of people meet to engage in collaborative computer programming, as according to [Lexico](https://www.lexico.com/en/definition/hackathon).
 
 In simpler terms, it is often a 24 hours(or longer) event where 2–5 members form a team to solve problems by coming up with a basic prototype to showcase to the judges.
 
