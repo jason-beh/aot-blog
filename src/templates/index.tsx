@@ -99,6 +99,11 @@ const IndexPage: React.FC<IndexProps> = props => {
       <Helmet>
         <html lang={config.lang} />
         <title>{config.title}</title>
+        <meta
+          name="keywords"
+          content="agents of tech, taylors club, computer club, coding club, tech club, tech society, taylors agents of tech"
+        />
+        <meta name="author" content="Jason Beh" />
         <meta name="description" content={config.description} />
         <meta property="og:site_name" content={config.title} />
         <meta property="og:type" content="website" />
