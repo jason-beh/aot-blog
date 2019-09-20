@@ -5,7 +5,7 @@ module.exports = {
     title: 'Agents of Tech',
     description:
       'Agents of Tech exists to satisfy anyone that has a curiosity for tech. From hardcore coding to stunning designs, we provide workshops to get you equipped with the 21st Century tech skillset.',
-    siteUrl: 'https://aot-blog.netflify.com', // full path to blog - no ending slash
+    siteUrl: 'https://agentsoftechclub.com', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
@@ -48,7 +48,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://gatsby-casper.netlify.com',
+        siteUrl: 'https://agentsoftechclub.com',
       },
     },
     'gatsby-plugin-emotion',
@@ -66,7 +66,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: 'UA-XXXX-Y',
+        trackingId: 'UA-108253018-5',
         // Puts tracking script in the head instead of the body
         head: true,
         // IP anonymization for GDPR compliance
