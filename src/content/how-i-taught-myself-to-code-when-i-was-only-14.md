@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Teach Myself How To Code When I Was Only 14 😎
+title: How I Taught Myself How To Code When I Was Only 14 😎
 image: img/how-i-teach-myself-to-code-when-i-was-only-14/1.jpg
 author: Jason Beh
 date: 2019-09-04T03:01:09+00:00
@@ -17,7 +17,7 @@ The buzz of people's perception of you being a genius is usually strong enough t
 
 ---
 
-![Mastery](img/how-i-teach-myself-to-code-when-i-was-only-14/2.jpg)
+![Mastery](img/how-i-taught-myself-to-code-when-i-was-only-14/2.jpg)
 
 ###### Mastery Is Hard.
 
@@ -35,7 +35,7 @@ Nonetheless, I urge everyone to try learning to code, particularly young childre
 
 ---
 
-![My Coding Journey](img/how-i-teach-myself-to-code-when-i-was-only-14/3.jpg)
+![My Coding Journey](img/how-i-taught-myself-to-code-when-i-was-only-14/3.jpg)
 
 ###### My Journey to Code Begins With A Single Step
 
@@ -53,7 +53,7 @@ Slowly by slowly, I accumulated my coding knowledge by finishing the courses in 
 
 Now, after having the basic knowledge of coding and the slight sneak peek of it, I was ready to build something that I can show to the world. Conventionally, people like to start off with a mobile app or website, because it is convenient to show to non-techie. Imagine showing your non-techie friends a Python script, they will get freaked out for sure! 😱
 
-![My Coding Journey](img/how-i-teach-myself-to-code-when-i-was-only-14/4.jpg)
+![My Coding Journey](img/how-i-taught-myself-to-code-when-i-was-only-14/4.jpg)
 
 ###### My End Goal: A Website
 
@@ -67,7 +67,7 @@ Eventually, after 1 month of experimenting daily and not giving up, I have built
 
 ---
 
-![Google Helps A Lot In Coding ](img/how-i-teach-myself-to-code-when-i-was-only-14/5.jpg)
+![Google Helps A Lot In Coding ](img/how-i-taught-myself-to-code-when-i-was-only-14/5.jpg)
 
 ###### Everyone loves Google.
 
