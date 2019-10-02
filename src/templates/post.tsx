@@ -141,6 +141,7 @@ interface PageTemplateProps {
             fluid: any;
           };
         };
+        keywords: string;
         tags: string[];
         author: {
           id: string;
@@ -188,6 +189,7 @@ export interface PageContext {
         fluid: any;
       };
     };
+    keywords: string[];
     title: string;
     date: string;
     draft?: boolean;
@@ -220,7 +222,6 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
       <Helmet>
         <html lang={config.lang} />
         <title>{post.frontmatter.title}</title>
-
         <meta name="description" content={post.excerpt} />
         <meta property="og:site_name" content={config.title} />
         <meta property="og:type" content="article" />
